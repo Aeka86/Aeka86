@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aigerim
-- 👀 I’m interested in becoming a Software Engineer
+- 👀 I’m interested in becoming a Front-End Developer
 - 🌱 I’m currently learning coding languages like HTML and CSS
 
 
